@@ -4,7 +4,8 @@
 
 ## 1. Project Title / Headline
 
-**BI Cycle Shop Sales Dashboard** – An interactive Power BI tool for tracking and analyzing global bicycle sales performance by month, product, country, and customer segment.
+**BI Cycle Shop Sales Dashboard**-
+An interactive Power BI tool for tracking and analyzing global bicycle sales performance by month, product, country, and customer segment.
 
 ---
 
