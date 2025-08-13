@@ -79,4 +79,4 @@ To provide an interactive platform that:
 
 ## 6. Screenshots / Demos
 **Dashboard Preview** (see attached PDF and image for visuals).  
-*![Alt text]([URL_or_path_to_imag](https://github.com/Liveinwar/Bicycle-sales/blob/main/Screenshot%202025-08-13%20163436.png)e)  * Interactive Power BI dashboard showing monthly profit/sales trends, product/country breakdowns, customer segment sales, and top customers.
+*![Alt text](https://github.com/Liveinwar/Bicycle-sales/blob/main/Screenshot%202025-08-13%20163436.png)  * Interactive Power BI dashboard showing monthly profit/sales trends, product/country breakdowns, customer segment sales, and top customers.
